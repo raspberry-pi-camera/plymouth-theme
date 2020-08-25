@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=raspindi
+Description=Raspberry Pi NDI splash
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/raspindi
+ScriptFile=/usr/share/plymouth/themes/raspindi/raspindi.script
